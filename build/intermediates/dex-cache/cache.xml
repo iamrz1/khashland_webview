@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Development\khashland_webview\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Development\khashland_webview\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e064570a2e4d1ad767c4b59b26229f66c71b5c00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Development\khashland_webview\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="22a6d923d8a23ea191a67da6fa1f2489082fb186">
+        <dex dex="C:\Development\khashland_webview\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9fc7d4dbf5c89055d26a5c978a0d336832b94ef4\classes.dex" />
+    </item>
+
+</items>
